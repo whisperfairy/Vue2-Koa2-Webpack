@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{% block title %}一灯学堂{% endblock %}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <link rel="shortcut icon" href="/assets/images/ico/favicon.ico"/>
+    <link rel="stylesheet" type="text/css" href="http://apps.bdimg.com/libs/bootstrap/3.3.4/css/bootstrap.min.css"/>
+    {% block styles %} {% endblock %}
+</head>
+
+<body>
+    <div class="container" id="container">
+        {% include "../../../widget/header/header.html" %} 
+        {% block content %} 
+        {% endblock %}
+        {% include "../../../widget/footer/footer.html" %} 
+    </div>
+    {% block script %} {% endblock %}
+</body>
+</html>

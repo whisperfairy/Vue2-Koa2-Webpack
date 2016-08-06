@@ -1,0 +1,2 @@
+//todo build/widget vuecomponent与swig 组件混淆改
+//todo vender 加在entry中当watch时会重复编译占用大量内存应使用provide（稍好）或dllPlguin(最好提升性能)

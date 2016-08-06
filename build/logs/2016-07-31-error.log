@@ -1,0 +1,638 @@
+2016-07-31 19:24:09.149 nodejs.ErrorException: Error: TypeError: Cannot read property 'config' of undefined
+    at _callee2$ (/Users/yuanzhijia/Desktop/learnsys/build/app.js:105:38)
+    at tryCatch (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:62:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:336:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:95:21)
+    at step (/Users/yuanzhijia/Desktop/learnsys/node_modules/babel-runtime/helpers/asyncToGenerator.js:17:30)
+    at /Users/yuanzhijia/Desktop/learnsys/node_modules/babel-runtime/helpers/asyncToGenerator.js:30:20
+    at run (/Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/es6.promise.js:87:22)
+    at /Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/es6.promise.js:100:28
+    at flush (/Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/_microtask.js:18:9)
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+pid: 11067
+Host: bogon
+URL: 
+Data: ''
+2016-07-31 19:24:09.149
+
+2016-07-31 19:24:20.189 nodejs.ErrorException: Error: TypeError: Cannot read property 'config' of undefined
+    at _callee2$ (/Users/yuanzhijia/Desktop/learnsys/build/app.js:105:38)
+    at tryCatch (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:62:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:336:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:95:21)
+    at step (/Users/yuanzhijia/Desktop/learnsys/node_modules/babel-runtime/helpers/asyncToGenerator.js:17:30)
+    at /Users/yuanzhijia/Desktop/learnsys/node_modules/babel-runtime/helpers/asyncToGenerator.js:30:20
+    at run (/Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/es6.promise.js:87:22)
+    at /Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/es6.promise.js:100:28
+    at flush (/Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/_microtask.js:18:9)
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+pid: 11070
+Host: bogon
+URL: 
+Data: ''
+2016-07-31 19:24:20.189
+
+2016-07-31 19:25:02.826 nodejs.ErrorException: Error: TypeError: Cannot read property 'config' of undefined
+    at _callee2$ (/Users/yuanzhijia/Desktop/learnsys/build/app.js:105:38)
+    at tryCatch (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:62:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:336:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:95:21)
+    at step (/Users/yuanzhijia/Desktop/learnsys/node_modules/babel-runtime/helpers/asyncToGenerator.js:17:30)
+    at /Users/yuanzhijia/Desktop/learnsys/node_modules/babel-runtime/helpers/asyncToGenerator.js:30:20
+    at run (/Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/es6.promise.js:87:22)
+    at /Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/es6.promise.js:100:28
+    at flush (/Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/_microtask.js:18:9)
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+pid: 11091
+Host: bogon
+URL: 
+Data: ''
+2016-07-31 19:25:02.826
+
+2016-07-31 19:25:09.779 nodejs.ErrorException: Error: TypeError: Cannot read property 'config' of undefined
+    at _callee2$ (/Users/yuanzhijia/Desktop/learnsys/build/app.js:105:38)
+    at tryCatch (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:62:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:336:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:95:21)
+    at step (/Users/yuanzhijia/Desktop/learnsys/node_modules/babel-runtime/helpers/asyncToGenerator.js:17:30)
+    at /Users/yuanzhijia/Desktop/learnsys/node_modules/babel-runtime/helpers/asyncToGenerator.js:30:20
+    at run (/Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/es6.promise.js:87:22)
+    at /Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/es6.promise.js:100:28
+    at flush (/Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/_microtask.js:18:9)
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+pid: 11094
+Host: bogon
+URL: 
+Data: ''
+2016-07-31 19:25:09.779
+
+2016-07-31 19:25:29.241 nodejs.ErrorException: Error: TypeError: Cannot read property 'config' of undefined
+    at _callee2$ (/Users/yuanzhijia/Desktop/learnsys/build/app.js:105:38)
+    at tryCatch (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:62:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:336:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:95:21)
+    at step (/Users/yuanzhijia/Desktop/learnsys/node_modules/babel-runtime/helpers/asyncToGenerator.js:17:30)
+    at /Users/yuanzhijia/Desktop/learnsys/node_modules/babel-runtime/helpers/asyncToGenerator.js:30:20
+    at run (/Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/es6.promise.js:87:22)
+    at /Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/es6.promise.js:100:28
+    at flush (/Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/_microtask.js:18:9)
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+pid: 11103
+Host: bogon
+URL: 
+Data: ''
+2016-07-31 19:25:29.241
+
+2016-07-31 19:25:35.521 nodejs.ErrorException: Error: TypeError: Cannot read property 'config' of undefined
+    at _callee2$ (/Users/yuanzhijia/Desktop/learnsys/build/app.js:105:38)
+    at tryCatch (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:62:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:336:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:95:21)
+    at step (/Users/yuanzhijia/Desktop/learnsys/node_modules/babel-runtime/helpers/asyncToGenerator.js:17:30)
+    at /Users/yuanzhijia/Desktop/learnsys/node_modules/babel-runtime/helpers/asyncToGenerator.js:30:20
+    at run (/Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/es6.promise.js:87:22)
+    at /Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/es6.promise.js:100:28
+    at flush (/Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/_microtask.js:18:9)
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+pid: 11103
+Host: bogon
+URL: 
+Data: ''
+2016-07-31 19:25:35.521
+
+2016-07-31 19:26:05.201 nodejs.ErrorException: Error: TypeError: Cannot read property 'config' of undefined
+    at _callee2$ (/Users/yuanzhijia/Desktop/learnsys/build/app.js:102:38)
+    at tryCatch (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:62:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:336:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:95:21)
+    at step (/Users/yuanzhijia/Desktop/learnsys/node_modules/babel-runtime/helpers/asyncToGenerator.js:17:30)
+    at /Users/yuanzhijia/Desktop/learnsys/node_modules/babel-runtime/helpers/asyncToGenerator.js:30:20
+    at run (/Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/es6.promise.js:87:22)
+    at /Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/es6.promise.js:100:28
+    at flush (/Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/_microtask.js:18:9)
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+pid: 11113
+Host: bogon
+URL: 
+Data: ''
+2016-07-31 19:26:05.201
+
+2016-07-31 19:26:07.902 nodejs.ErrorException: Error: TypeError: Cannot read property 'config' of undefined
+    at _callee2$ (/Users/yuanzhijia/Desktop/learnsys/build/app.js:102:38)
+    at tryCatch (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:62:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:336:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:95:21)
+    at step (/Users/yuanzhijia/Desktop/learnsys/node_modules/babel-runtime/helpers/asyncToGenerator.js:17:30)
+    at /Users/yuanzhijia/Desktop/learnsys/node_modules/babel-runtime/helpers/asyncToGenerator.js:30:20
+    at run (/Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/es6.promise.js:87:22)
+    at /Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/es6.promise.js:100:28
+    at flush (/Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/_microtask.js:18:9)
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+pid: 11113
+Host: bogon
+URL: 
+Data: ''
+2016-07-31 19:26:07.902
+
+2016-07-31 19:26:09.796 nodejs.ErrorException: Error: TypeError: Cannot read property 'config' of undefined
+    at _callee2$ (/Users/yuanzhijia/Desktop/learnsys/build/app.js:102:38)
+    at tryCatch (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:62:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:336:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:95:21)
+    at step (/Users/yuanzhijia/Desktop/learnsys/node_modules/babel-runtime/helpers/asyncToGenerator.js:17:30)
+    at /Users/yuanzhijia/Desktop/learnsys/node_modules/babel-runtime/helpers/asyncToGenerator.js:30:20
+    at run (/Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/es6.promise.js:87:22)
+    at /Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/es6.promise.js:100:28
+    at flush (/Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/_microtask.js:18:9)
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+pid: 11113
+Host: bogon
+URL: 
+Data: ''
+2016-07-31 19:26:09.796
+
+2016-07-31 19:26:16.863 nodejs.ErrorException: Error: TypeError: Cannot read property 'config' of undefined
+    at _callee2$ (/Users/yuanzhijia/Desktop/learnsys/build/app.js:102:38)
+    at tryCatch (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:62:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:336:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:95:21)
+    at step (/Users/yuanzhijia/Desktop/learnsys/node_modules/babel-runtime/helpers/asyncToGenerator.js:17:30)
+    at /Users/yuanzhijia/Desktop/learnsys/node_modules/babel-runtime/helpers/asyncToGenerator.js:30:20
+    at run (/Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/es6.promise.js:87:22)
+    at /Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/es6.promise.js:100:28
+    at flush (/Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/_microtask.js:18:9)
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+pid: 11117
+Host: bogon
+URL: 
+Data: ''
+2016-07-31 19:26:16.863
+
+2016-07-31 19:26:28.616 nodejs.ErrorException: Error: TypeError: Cannot read property 'config' of undefined
+    at _callee2$ (/Users/yuanzhijia/Desktop/learnsys/build/app.js:102:38)
+    at tryCatch (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:62:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:336:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:95:21)
+    at step (/Users/yuanzhijia/Desktop/learnsys/node_modules/babel-runtime/helpers/asyncToGenerator.js:17:30)
+    at /Users/yuanzhijia/Desktop/learnsys/node_modules/babel-runtime/helpers/asyncToGenerator.js:30:20
+    at run (/Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/es6.promise.js:87:22)
+    at /Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/es6.promise.js:100:28
+    at flush (/Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/_microtask.js:18:9)
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+pid: 11120
+Host: bogon
+URL: 
+Data: ''
+2016-07-31 19:26:28.616
+
+2016-07-31 19:26:40.412 nodejs.ErrorException: Error: TypeError: Cannot read property 'config' of undefined
+    at _callee2$ (/Users/yuanzhijia/Desktop/learnsys/build/app.js:105:38)
+    at tryCatch (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:62:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:336:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:95:21)
+    at step (/Users/yuanzhijia/Desktop/learnsys/node_modules/babel-runtime/helpers/asyncToGenerator.js:17:30)
+    at /Users/yuanzhijia/Desktop/learnsys/node_modules/babel-runtime/helpers/asyncToGenerator.js:30:20
+    at run (/Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/es6.promise.js:87:22)
+    at /Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/es6.promise.js:100:28
+    at flush (/Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/_microtask.js:18:9)
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+pid: 11139
+Host: bogon
+URL: 
+Data: ''
+2016-07-31 19:26:40.412
+
+2016-07-31 19:26:48.080 nodejs.ErrorException: Error: TypeError: Cannot read property 'config' of undefined
+    at _callee2$ (/Users/yuanzhijia/Desktop/learnsys/build/app.js:105:38)
+    at tryCatch (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:62:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:336:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:95:21)
+    at step (/Users/yuanzhijia/Desktop/learnsys/node_modules/babel-runtime/helpers/asyncToGenerator.js:17:30)
+    at /Users/yuanzhijia/Desktop/learnsys/node_modules/babel-runtime/helpers/asyncToGenerator.js:30:20
+    at run (/Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/es6.promise.js:87:22)
+    at /Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/es6.promise.js:100:28
+    at flush (/Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/_microtask.js:18:9)
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+pid: 11139
+Host: bogon
+URL: 
+Data: ''
+2016-07-31 19:26:48.080
+
+2016-07-31 19:29:35.335 nodejs.ErrorException: Error: TypeError: Cannot read property 'config' of undefined
+    at _callee2$ (/Users/yuanzhijia/Desktop/learnsys/build/app.js:104:38)
+    at tryCatch (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:62:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:336:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:95:21)
+    at step (/Users/yuanzhijia/Desktop/learnsys/node_modules/babel-runtime/helpers/asyncToGenerator.js:17:30)
+    at /Users/yuanzhijia/Desktop/learnsys/node_modules/babel-runtime/helpers/asyncToGenerator.js:30:20
+    at run (/Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/es6.promise.js:87:22)
+    at /Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/es6.promise.js:100:28
+    at flush (/Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/_microtask.js:18:9)
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+pid: 11174
+Host: bogon
+URL: 
+Data: ''
+2016-07-31 19:29:35.335
+
+2016-07-31 19:30:04.676 nodejs.ErrorException: Error: TypeError: Cannot read property 'config' of undefined
+    at _callee2$ (/Users/yuanzhijia/Desktop/learnsys/build/app.js:104:38)
+    at tryCatch (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:62:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:336:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:95:21)
+    at step (/Users/yuanzhijia/Desktop/learnsys/node_modules/babel-runtime/helpers/asyncToGenerator.js:17:30)
+    at /Users/yuanzhijia/Desktop/learnsys/node_modules/babel-runtime/helpers/asyncToGenerator.js:30:20
+    at run (/Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/es6.promise.js:87:22)
+    at /Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/es6.promise.js:100:28
+    at flush (/Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/_microtask.js:18:9)
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+pid: 11180
+Host: bogon
+URL: 
+Data: ''
+2016-07-31 19:30:04.676
+
+2016-07-31 19:30:42.892 nodejs.ErrorException: Error: TypeError: Cannot read property 'config' of undefined
+    at _callee2$ (/Users/yuanzhijia/Desktop/learnsys/build/app.js:104:38)
+    at tryCatch (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:62:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:336:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:95:21)
+    at step (/Users/yuanzhijia/Desktop/learnsys/node_modules/babel-runtime/helpers/asyncToGenerator.js:17:30)
+    at /Users/yuanzhijia/Desktop/learnsys/node_modules/babel-runtime/helpers/asyncToGenerator.js:30:20
+    at run (/Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/es6.promise.js:87:22)
+    at /Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/es6.promise.js:100:28
+    at flush (/Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/_microtask.js:18:9)
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+pid: 11195
+Host: bogon
+URL: 
+Data: ''
+2016-07-31 19:30:42.892
+
+2016-07-31 19:30:44.479 nodejs.ErrorException: Error: TypeError: Cannot read property 'config' of undefined
+    at _callee2$ (/Users/yuanzhijia/Desktop/learnsys/build/app.js:104:38)
+    at tryCatch (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:62:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:336:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:95:21)
+    at step (/Users/yuanzhijia/Desktop/learnsys/node_modules/babel-runtime/helpers/asyncToGenerator.js:17:30)
+    at /Users/yuanzhijia/Desktop/learnsys/node_modules/babel-runtime/helpers/asyncToGenerator.js:30:20
+    at run (/Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/es6.promise.js:87:22)
+    at /Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/es6.promise.js:100:28
+    at flush (/Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/_microtask.js:18:9)
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+pid: 11195
+Host: bogon
+URL: 
+Data: ''
+2016-07-31 19:30:44.479
+
+2016-07-31 19:31:37.600 nodejs.ErrorException: Error: TypeError: Cannot read property 'config' of undefined
+    at _callee2$ (/Users/yuanzhijia/Desktop/learnsys/build/app.js:100:38)
+    at tryCatch (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:62:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:336:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:95:21)
+    at step (/Users/yuanzhijia/Desktop/learnsys/node_modules/babel-runtime/helpers/asyncToGenerator.js:17:30)
+    at /Users/yuanzhijia/Desktop/learnsys/node_modules/babel-runtime/helpers/asyncToGenerator.js:30:20
+    at run (/Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/es6.promise.js:87:22)
+    at /Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/es6.promise.js:100:28
+    at flush (/Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/_microtask.js:18:9)
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+pid: 11205
+Host: bogon
+URL: 
+Data: ''
+2016-07-31 19:31:37.600
+
+2016-07-31 19:31:54.522 nodejs.ErrorException: Error: TypeError: Cannot read property 'config' of undefined
+    at _callee2$ (/Users/yuanzhijia/Desktop/learnsys/build/app.js:100:38)
+    at tryCatch (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:62:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:336:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:95:21)
+    at step (/Users/yuanzhijia/Desktop/learnsys/node_modules/babel-runtime/helpers/asyncToGenerator.js:17:30)
+    at /Users/yuanzhijia/Desktop/learnsys/node_modules/babel-runtime/helpers/asyncToGenerator.js:30:20
+    at run (/Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/es6.promise.js:87:22)
+    at /Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/es6.promise.js:100:28
+    at flush (/Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/_microtask.js:18:9)
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+pid: 11215
+Host: bogon
+URL: 
+Data: ''
+2016-07-31 19:31:54.522
+
+2016-07-31 19:32:05.829 nodejs.ErrorException: Error: TypeError: Cannot read property 'config' of undefined
+    at _callee2$ (/Users/yuanzhijia/Desktop/learnsys/build/app.js:100:38)
+    at tryCatch (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:62:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:336:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:95:21)
+    at step (/Users/yuanzhijia/Desktop/learnsys/node_modules/babel-runtime/helpers/asyncToGenerator.js:17:30)
+    at /Users/yuanzhijia/Desktop/learnsys/node_modules/babel-runtime/helpers/asyncToGenerator.js:30:20
+    at run (/Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/es6.promise.js:87:22)
+    at /Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/es6.promise.js:100:28
+    at flush (/Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/_microtask.js:18:9)
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+pid: 11226
+Host: bogon
+URL: 
+Data: ''
+2016-07-31 19:32:05.829
+
+2016-07-31 19:32:17.755 nodejs.ErrorException: Error: TypeError: Cannot read property 'config' of undefined
+    at _callee2$ (/Users/yuanzhijia/Desktop/learnsys/build/app.js:100:38)
+    at tryCatch (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:62:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:336:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:95:21)
+    at step (/Users/yuanzhijia/Desktop/learnsys/node_modules/babel-runtime/helpers/asyncToGenerator.js:17:30)
+    at /Users/yuanzhijia/Desktop/learnsys/node_modules/babel-runtime/helpers/asyncToGenerator.js:30:20
+    at run (/Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/es6.promise.js:87:22)
+    at /Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/es6.promise.js:100:28
+    at flush (/Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/_microtask.js:18:9)
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+pid: 11232
+Host: bogon
+URL: 
+Data: ''
+2016-07-31 19:32:17.755
+
+2016-07-31 19:33:56.050 nodejs.ErrorException: Error: TypeError: Cannot read property 'config' of undefined
+    at _callee2$ (/Users/yuanzhijia/Desktop/learnsys/build/app.js:104:38)
+    at tryCatch (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:62:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:336:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:95:21)
+    at step (/Users/yuanzhijia/Desktop/learnsys/node_modules/babel-runtime/helpers/asyncToGenerator.js:17:30)
+    at /Users/yuanzhijia/Desktop/learnsys/node_modules/babel-runtime/helpers/asyncToGenerator.js:30:20
+    at run (/Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/es6.promise.js:87:22)
+    at /Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/es6.promise.js:100:28
+    at flush (/Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/_microtask.js:18:9)
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+pid: 11276
+Host: bogon
+URL: 
+Data: ''
+2016-07-31 19:33:56.050
+
+2016-07-31 19:34:20.972 nodejs.ErrorException: Error: TypeError: Cannot read property 'config' of undefined
+    at _callee2$ (/Users/yuanzhijia/Desktop/learnsys/build/app.js:104:38)
+    at tryCatch (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:62:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:336:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:95:21)
+    at step (/Users/yuanzhijia/Desktop/learnsys/node_modules/babel-runtime/helpers/asyncToGenerator.js:17:30)
+    at /Users/yuanzhijia/Desktop/learnsys/node_modules/babel-runtime/helpers/asyncToGenerator.js:30:20
+    at run (/Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/es6.promise.js:87:22)
+    at /Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/es6.promise.js:100:28
+    at flush (/Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/_microtask.js:18:9)
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+pid: 11285
+Host: bogon
+URL: 
+Data: ''
+2016-07-31 19:34:20.972
+
+2016-07-31 19:34:56.972 nodejs.ErrorException: Error: TypeError: Cannot read property 'config' of undefined
+    at _callee2$ (/Users/yuanzhijia/Desktop/learnsys/build/app.js:104:38)
+    at tryCatch (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:62:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:336:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:95:21)
+    at step (/Users/yuanzhijia/Desktop/learnsys/node_modules/babel-runtime/helpers/asyncToGenerator.js:17:30)
+    at /Users/yuanzhijia/Desktop/learnsys/node_modules/babel-runtime/helpers/asyncToGenerator.js:30:20
+    at run (/Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/es6.promise.js:87:22)
+    at /Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/es6.promise.js:100:28
+    at flush (/Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/_microtask.js:18:9)
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+pid: 11290
+Host: bogon
+URL: 
+Data: ''
+2016-07-31 19:34:56.972
+
+2016-07-31 19:35:13.952 nodejs.ErrorException: Error: TypeError: Cannot read property 'config' of undefined
+    at _callee2$ (/Users/yuanzhijia/Desktop/learnsys/build/app.js:104:38)
+    at tryCatch (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:62:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:336:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:95:21)
+    at step (/Users/yuanzhijia/Desktop/learnsys/node_modules/babel-runtime/helpers/asyncToGenerator.js:17:30)
+    at /Users/yuanzhijia/Desktop/learnsys/node_modules/babel-runtime/helpers/asyncToGenerator.js:30:20
+    at run (/Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/es6.promise.js:87:22)
+    at /Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/es6.promise.js:100:28
+    at flush (/Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/_microtask.js:18:9)
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+pid: 11294
+Host: bogon
+URL: 
+Data: ''
+2016-07-31 19:35:13.952
+
+2016-07-31 19:38:33.811 nodejs.ErrorException: Error: TypeError: Cannot read property 'config' of undefined
+    at _callee2$ (/Users/yuanzhijia/Desktop/learnsys/build/app.js:104:38)
+    at tryCatch (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:62:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:336:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:95:21)
+    at step (/Users/yuanzhijia/Desktop/learnsys/node_modules/babel-runtime/helpers/asyncToGenerator.js:17:30)
+    at /Users/yuanzhijia/Desktop/learnsys/node_modules/babel-runtime/helpers/asyncToGenerator.js:30:20
+    at run (/Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/es6.promise.js:87:22)
+    at /Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/es6.promise.js:100:28
+    at flush (/Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/_microtask.js:18:9)
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+pid: 11314
+Host: bogon
+URL: 
+Data: ''
+2016-07-31 19:38:33.811
+
+2016-07-31 19:39:39.335 nodejs.ErrorException: Error: TypeError: Cannot read property 'config' of undefined
+    at _callee2$ (/Users/yuanzhijia/Desktop/learnsys/build/app.js:104:38)
+    at tryCatch (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:62:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:336:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:95:21)
+    at step (/Users/yuanzhijia/Desktop/learnsys/node_modules/babel-runtime/helpers/asyncToGenerator.js:17:30)
+    at /Users/yuanzhijia/Desktop/learnsys/node_modules/babel-runtime/helpers/asyncToGenerator.js:30:20
+    at run (/Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/es6.promise.js:87:22)
+    at /Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/es6.promise.js:100:28
+    at flush (/Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/_microtask.js:18:9)
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+pid: 11332
+Host: bogon
+URL: 
+Data: ''
+2016-07-31 19:39:39.335
+
+2016-07-31 19:40:14.843 nodejs.ErrorException: Error: TypeError: Cannot read property 'config' of undefined
+    at _callee2$ (/Users/yuanzhijia/Desktop/learnsys/build/app.js:104:38)
+    at tryCatch (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:62:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:336:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:95:21)
+    at step (/Users/yuanzhijia/Desktop/learnsys/node_modules/babel-runtime/helpers/asyncToGenerator.js:17:30)
+    at /Users/yuanzhijia/Desktop/learnsys/node_modules/babel-runtime/helpers/asyncToGenerator.js:30:20
+    at run (/Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/es6.promise.js:87:22)
+    at /Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/es6.promise.js:100:28
+    at flush (/Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/_microtask.js:18:9)
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+pid: 11332
+Host: bogon
+URL: 
+Data: ''
+2016-07-31 19:40:14.843
+
+2016-07-31 19:41:17.462 nodejs.ErrorException: Error: TypeError: Cannot read property 'config' of undefined
+    at _callee2$ (/Users/yuanzhijia/Desktop/learnsys/build/app.js:104:38)
+    at tryCatch (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:62:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:336:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:95:21)
+    at step (/Users/yuanzhijia/Desktop/learnsys/node_modules/babel-runtime/helpers/asyncToGenerator.js:17:30)
+    at /Users/yuanzhijia/Desktop/learnsys/node_modules/babel-runtime/helpers/asyncToGenerator.js:30:20
+    at run (/Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/es6.promise.js:87:22)
+    at /Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/es6.promise.js:100:28
+    at flush (/Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/_microtask.js:18:9)
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
+pid: 11390
+Host: bogon
+URL: 
+Data: ''
+2016-07-31 19:41:17.462
+
+2016-07-31 19:42:46.700 nodejs.ErrorException: Error: TypeError: Cannot read property 'config' of undefined
+    at _callee2$ (/Users/yuanzhijia/Desktop/learnsys/build/app.js:103:38)
+    at tryCatch (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:62:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:336:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:95:21)
+    at step (/Users/yuanzhijia/Desktop/learnsys/node_modules/babel-runtime/helpers/asyncToGenerator.js:17:30)
+    at /Users/yuanzhijia/Desktop/learnsys/node_modules/babel-runtime/helpers/asyncToGenerator.js:30:20
+    at run (/Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/es6.promise.js:87:22)
+    at /Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/es6.promise.js:100:28
+    at flush (/Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/_microtask.js:18:9)
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
+pid: 11448
+Host: bogon
+URL: 
+Data: ''
+2016-07-31 19:42:46.700
+
+2016-07-31 19:42:48.195 nodejs.ErrorException: Error: TypeError: Cannot read property 'config' of undefined
+    at _callee2$ (/Users/yuanzhijia/Desktop/learnsys/build/app.js:103:38)
+    at tryCatch (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:62:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:336:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:95:21)
+    at step (/Users/yuanzhijia/Desktop/learnsys/node_modules/babel-runtime/helpers/asyncToGenerator.js:17:30)
+    at /Users/yuanzhijia/Desktop/learnsys/node_modules/babel-runtime/helpers/asyncToGenerator.js:30:20
+    at run (/Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/es6.promise.js:87:22)
+    at /Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/es6.promise.js:100:28
+    at flush (/Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/_microtask.js:18:9)
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
+pid: 11448
+Host: bogon
+URL: 
+Data: ''
+2016-07-31 19:42:48.195
+
+2016-07-31 19:42:55.639 nodejs.ErrorException: Error: TypeError: Cannot read property 'config' of undefined
+    at _callee2$ (/Users/yuanzhijia/Desktop/learnsys/build/app.js:103:38)
+    at tryCatch (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:62:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:336:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:95:21)
+    at step (/Users/yuanzhijia/Desktop/learnsys/node_modules/babel-runtime/helpers/asyncToGenerator.js:17:30)
+    at /Users/yuanzhijia/Desktop/learnsys/node_modules/babel-runtime/helpers/asyncToGenerator.js:30:20
+    at run (/Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/es6.promise.js:87:22)
+    at /Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/es6.promise.js:100:28
+    at flush (/Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/_microtask.js:18:9)
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
+pid: 11448
+Host: bogon
+URL: 
+Data: ''
+2016-07-31 19:42:55.639
+
+2016-07-31 19:43:58.675 nodejs.ErrorException: Error: TypeError: Cannot read property 'config' of undefined
+    at _callee2$ (/Users/yuanzhijia/Desktop/learnsys/build/app.js:100:38)
+    at tryCatch (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:62:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:336:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:95:21)
+    at step (/Users/yuanzhijia/Desktop/learnsys/node_modules/babel-runtime/helpers/asyncToGenerator.js:17:30)
+    at /Users/yuanzhijia/Desktop/learnsys/node_modules/babel-runtime/helpers/asyncToGenerator.js:30:20
+    at run (/Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/es6.promise.js:87:22)
+    at /Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/es6.promise.js:100:28
+    at flush (/Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/_microtask.js:18:9)
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
+pid: 11464
+Host: bogon
+URL: 
+Data: ''
+2016-07-31 19:43:58.675
+
+2016-07-31 19:44:03.719 nodejs.ErrorException: Error: TypeError: Cannot read property 'config' of undefined
+    at _callee2$ (/Users/yuanzhijia/Desktop/learnsys/build/app.js:100:38)
+    at tryCatch (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:62:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:336:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:95:21)
+    at step (/Users/yuanzhijia/Desktop/learnsys/node_modules/babel-runtime/helpers/asyncToGenerator.js:17:30)
+    at /Users/yuanzhijia/Desktop/learnsys/node_modules/babel-runtime/helpers/asyncToGenerator.js:30:20
+    at run (/Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/es6.promise.js:87:22)
+    at /Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/es6.promise.js:100:28
+    at flush (/Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/_microtask.js:18:9)
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
+pid: 11464
+Host: bogon
+URL: 
+Data: ''
+2016-07-31 19:44:03.719
+
+2016-07-31 19:44:25.813 nodejs.ErrorException: Error: TypeError: Cannot read property 'config' of undefined
+    at Object._callee2$ (/Users/yuanzhijia/Desktop/learnsys/build/Libs/errorHandler.js:75:46)
+    at tryCatch (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:62:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:336:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:95:21)
+    at step (/Users/yuanzhijia/Desktop/learnsys/node_modules/babel-runtime/helpers/asyncToGenerator.js:17:30)
+    at /Users/yuanzhijia/Desktop/learnsys/node_modules/babel-runtime/helpers/asyncToGenerator.js:30:20
+    at run (/Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/es6.promise.js:87:22)
+    at /Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/es6.promise.js:100:28
+    at flush (/Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/_microtask.js:18:9)
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
+pid: 11478
+Host: bogon
+URL: 
+Data: ''
+2016-07-31 19:44:25.813
+
+2016-07-31 19:44:27.890 nodejs.ErrorException: Error: TypeError: Cannot read property 'config' of undefined
+    at Object._callee2$ (/Users/yuanzhijia/Desktop/learnsys/build/Libs/errorHandler.js:75:46)
+    at tryCatch (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:62:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:336:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:95:21)
+    at step (/Users/yuanzhijia/Desktop/learnsys/node_modules/babel-runtime/helpers/asyncToGenerator.js:17:30)
+    at /Users/yuanzhijia/Desktop/learnsys/node_modules/babel-runtime/helpers/asyncToGenerator.js:30:20
+    at run (/Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/es6.promise.js:87:22)
+    at /Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/es6.promise.js:100:28
+    at flush (/Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/_microtask.js:18:9)
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
+pid: 11478
+Host: bogon
+URL: 
+Data: ''
+2016-07-31 19:44:27.890
+
+2016-07-31 19:44:38.535 nodejs.ErrorException: Error: TypeError: Cannot read property 'config' of undefined
+    at Object._callee2$ (/Users/yuanzhijia/Desktop/learnsys/build/Libs/errorHandler.js:75:46)
+    at tryCatch (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:62:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:336:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (/Users/yuanzhijia/Desktop/learnsys/node_modules/regenerator-runtime/runtime.js:95:21)
+    at step (/Users/yuanzhijia/Desktop/learnsys/node_modules/babel-runtime/helpers/asyncToGenerator.js:17:30)
+    at /Users/yuanzhijia/Desktop/learnsys/node_modules/babel-runtime/helpers/asyncToGenerator.js:30:20
+    at run (/Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/es6.promise.js:87:22)
+    at /Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/es6.promise.js:100:28
+    at flush (/Users/yuanzhijia/Desktop/learnsys/node_modules/core-js/library/modules/_microtask.js:18:9)
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
+pid: 11478
+Host: bogon
+URL: 
+Data: ''
+2016-07-31 19:44:38.535
+
