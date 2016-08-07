@@ -24,4 +24,4 @@ controllers.getAllrouters(app, router); //初始化controllers
 app.use(convert(serve(config.staticDir))); // 静态资源文件
 //监听端口🐂😊
 app.listen(config.port);
-console.log(' listening on port %s', config.port);
+console.log('ydxtLearnSystem listening on port %s', config.port);

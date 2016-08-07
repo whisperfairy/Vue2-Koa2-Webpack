@@ -17,16 +17,28 @@ var uglifyJsPlugin = webpack.optimize.UglifyJsPlugin;
 var jsEntris = fs.readdirSync(entryPath).reduce(function(o, filename) {
     if (!/\./.test(filename)) {
         var _fd = entryPath + '/' + filename;
-        fs.readdirSync(_fd).reduce(function(innero, ifilename) {
+        fs.readdirSync(_fd).map(function(ifilename) {
             (/.entry.es$/.test(ifilename)) && (o[ifilename.replace('.entry.es', '')] = './' + path.join(entryPath, filename, ifilename));
         });
     }
     return o;
 }, {});
-var jsVendors = {
-    'vendor': ['vue'] //第三方库
-};
-var _entris = Object.assign(jsEntris, jsVendors),
+
+var widgetPage = fs.readdirSync(widgetPath).reduce(function(o, filename) {
+    if (!/\./.test(filename)) {
+        var _fd = widgetPath + '/' + filename;
+        fs.readdirSync(_fd).map(function(ifilename) {
+            (/.html$/.test(ifilename)) && (o[ifilename.replace('.html', '')] = './' + path.join(entryPath, filename, ifilename));
+        });
+    }
+    return o;
+}, {});
+// var jsVendors = {
+//     'vendor': ['vue'] //第三方库
+// };
+var _entris = Object.assign(jsEntris
+    //, jsVendors
+ ),
     _module = {
         loaders: [{
             test: /\.vue$/,
@@ -49,6 +61,7 @@ var _entris = Object.assign(jsEntris, jsVendors),
         presets: ['es2015', 'stage-0'],
         plugins: ['transform-vue-jsx', 'transform-runtime']
     };
+    console.log(_entris);
 var _devLoaders = undersore.clone(_module.loaders);
 var _prodLoaders = undersore.clone(_module.loaders);
 _devLoaders.push({
@@ -75,6 +88,8 @@ var webpackConfig = {
         },
         resolve: _resolve,
         babel: _babel
-    }
+    },
+    TemplatePage:widgetPage
 };
+
 module.exports = webpackConfig;

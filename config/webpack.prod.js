@@ -88,6 +88,19 @@ var options = {
         new ExtractTextPlugin("assets/styles/[name].[hash:5].css"),
     ]
 }
-var _options = Object.assign(options, conf.prod)
+var _options = Object.assign(options, conf.prod);
+for (var i in conf.TemplatePage)
+{
+    _options.plugins.push(
+        new HtmlWebpackPlugin({
+            template: conf.TemplatePage[i],
+            filename: './widget/'+i+'/'+i+'.html',
+            minify: {
+                collapseWhitespace: true
+            },
+            inject: false
+        })
+    )
+};
 module.exports = _options;
 // module.exports.devtool = 'inline-source-map';

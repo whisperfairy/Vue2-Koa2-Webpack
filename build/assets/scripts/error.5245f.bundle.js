@@ -1,1 +1,0 @@
-webpackJsonp([1],[function(e,l,t){"use strict";function n(e){return e&&e.__esModule?e:{"default":e}}var o=t(1),u=n(o);new u["default"]({el:"#app",data:{msg:"Hello JSX"},methods:{hello:function(){alert("Hello Vue 2.0")}}})}]);

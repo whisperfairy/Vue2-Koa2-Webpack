@@ -1,1 +1,0 @@
-webpackJsonp([2],[function(n,o){"use strict";console.log("我是index")}]);

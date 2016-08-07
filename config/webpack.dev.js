@@ -43,16 +43,6 @@ var options = {
             inject: false
         }),
         new HtmlWebpackPlugin({
-            template: './web/widget/header/header.html',
-            filename: './widget/header/header.html',
-            inject: false
-        }),
-        new HtmlWebpackPlugin({
-            template: './web/widget/footer/footer.html',
-            filename: './widget/footer/footer.html',
-            inject: false
-        }),
-        new HtmlWebpackPlugin({
             template: './web/views/index/pages/index.js',
             filename: './views/index/pages/index.html',
             inject: false,
@@ -60,6 +50,20 @@ var options = {
         }),
         new ExtractTextPlugin("assets/styles/[name].css"),
     ]
-}
-var _options = Object.assign(options, conf.dev)
+};
+var _options = Object.assign(options, conf.dev);
+for (var i in conf.TemplatePage)
+{
+      _options.plugins.push(
+          new HtmlWebpackPlugin({
+              template: conf.TemplatePage[i],
+              filename: './widget/'+i+'/'+i+'.html',
+              minify: {
+                  collapseWhitespace: true
+              },
+              inject: false
+          })
+      )
+};
+
 module.exports = _options;
