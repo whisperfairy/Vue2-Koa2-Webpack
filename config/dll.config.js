@@ -4,19 +4,17 @@
 const webpack = require('webpack');
 
 const vendors = [
-    'react',
-    'react-dom',
-    'antd'
-];
+    'vue'
+    ];
 
 module.exports = {
     output: {
-        path: 'dist/js',
+        path: './build/assets/scripts',
         filename: '[name].js',
         library: '[name]',
     },
     entry: {
-        "lib": vendors,
+        "vendor": vendors,
     },
     plugins: [
         new webpack.DllPlugin({

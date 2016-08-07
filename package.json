@@ -5,7 +5,9 @@
   "scripts": {
     "start": "node --harmony app.js",
     "test": "mocha --harmony",
-    "webpackdev": "better-npm-run webpack:dev"
+    "webpackdev": "better-npm-run webpack:dev",
+    "webpackprod": "better-npm-run webpack:prod",
+    "webpackdll": "better-npm-run webpack:dll"
   },
   "betterScripts": {
     "webpack:dev": {
@@ -19,6 +21,9 @@
       "env": {
         "NODE_ENV": "prod"
       }
+    },
+    "webpack:dll": {
+      "command":"webpack ./config/dll.config.js"
     }
   },
   "dependencies": {
