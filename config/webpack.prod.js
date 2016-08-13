@@ -5,6 +5,7 @@ var conf = require('./webpack.conf');
 var webpack = require('webpack');
 var HtmlWebpackPlugin = require('html-webpack-plugin');
 var uglifyJsPlugin = webpack.optimize.UglifyJsPlugin;
+
 var ExtractTextPlugin = require("extract-text-webpack-plugin");
 var options = {
     devtools: {
@@ -32,8 +33,8 @@ var options = {
             filename: 'assets/scripts/[name].[chunkhash:5].bundle.js'
         }),
         new HtmlWebpackPlugin({
-            template: './web/views/common/pages/layout.html',
-            filename: './views/common/pages/layout.html',
+            template: './web/views/layout/pages/layout.html',
+            filename: './views/layout/pages/layout.html',
             inject: false,
             minify: {
                 collapseWhitespace: true

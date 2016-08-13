@@ -28,8 +28,8 @@ var options = {
             filename: 'assets/scripts/[name].bundle.js'
         }),
         new HtmlWebpackPlugin({
-            template: './web/views/common/pages/layout.html',
-            filename: './views/common/pages/layout.html',
+            template: './web/views/layout/pages/layout.html',
+            filename: './views/layout/pages/layout.html',
             inject: false
         }),
         new HtmlWebpackPlugin({
@@ -51,7 +51,7 @@ var options = {
         new ExtractTextPlugin("assets/styles/[name].css"),
     ]
 };
-var _options = Object.assign(options, conf.dev);
+var _options = Object.assign(options,conf.dev);
 for (var i in conf.TemplatePage)
 {
       _options.plugins.push(

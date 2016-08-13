@@ -1,2 +1,27 @@
 //todo build/widget vuecomponent与swig 组件混淆改
 //todo vender 加在entry中当watch时会重复编译占用大量内存应使用provide（稍好）或dllPlguin(最好提升性能)
+//todo 记录与webpack相关的输出文件夹 并对文件系统进行封装
+1 用__dirpath作为相对路径 制作资源mapping list
+1 图片文件夹
+picList
+added pos： webpack conf.js 69 line
+input：loader
+output： __dirname/output/assets/image/[name].[ext]
+2 dll文件夹
+dll list
+added pos： dll.config.js 12 line
+input ：node-module lib
+output：__output/build/asset/scripts/vender.dll.js
+3 模板文件夹
+TPL Swig List
+added pos  dev/prod html-webpack-plugin
+input /web/views/common/**/*.html
+output __/build/views/common/**/*.html
+4 chunkList
+added pos ：webpack.dev.js prod.js
+input:views下以文件夹名开头以entry.es结尾的文件
+output:  __dirname+output+./build/assets/scripts/name.bundle.js
+5 csslist
+added pos：
+input js中引入的css样式的集合
+output __dirname+output+./build/assets/scripts/name

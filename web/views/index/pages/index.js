@@ -1,7 +1,7 @@
 module.exports = function(templateParams) {
     var _cssList = ['common'];
     var webAssetsHelp = require('../../../webAssetsHelp.js')(templateParams, _cssList);
-    var _html = "{% extends '../../common/pages/layout.html' %} " +
+    var _html = "{% extends '../../layout/pages/layout.html' %} " +
         "{% block title %}{{data.title}}{% endblock %}" +
         "{% block styles %} " +
         webAssetsHelp.styles +
